@@ -1,0 +1,101 @@
+Repositories:,# Long Methods,Total Smells Detected,Top two smells detected (1st / 2nd) + special cases (~Very close to 2nd highest),Lines of Code (LoC),# Magic Number,# Long statement,# God Components,# Unutilized Abstraction,# Methods
+https://github.com/brettwooldridge/HikariCP,0,835,Magic Number / Long statement,13107,529,137,1,14,1396
+https://github.com/graphql-java/graphql-java,4,2379,Long Statement / Unutilized abstraction,52378,128,1123,8,234,7878
+https://github.com/google/gson,3,1837,Magic Number / Long statement,29262,814,223,4,74,2976
+https://github.com/shopizer-ecommerce/shopizer,45,3027,Long Statement / Unutilized abstraction,71401,396,865,1,459,8113
+https://github.com/kubernetes-client/java,6,22250,Long Statement / Long Parameter List,432978,2340,9222,12,1572,77500
+https://github.com/json-iterator/java,4,1791,Magic Number / Unutilized abstraction,19099,952,115,4,197,1969
+https://github.com/javaparser/javaparser,41,11303,Magic Number / Long statement,173041,5575,3889,22,730,21136
+https://github.com/java-decompiler/jd-gui,7,842,Magic Number / Long statement,18871,369,165,2,140,2102
+https://github.com/javamelody/javamelody,0,2612,Magic Number / Long statement,55295,1329,660,3,43,4622
+https://github.com/brunomnsilva/JavaFXSmartGraph,0,121,Magic Number / Long statement,3005,81,15,0,8,307
+https://github.com/microsoft/java-debug,2,873,Long statement / Deficient encapsulation,14938,90,257,4,90,1414
+https://github.com/knowm/XChart,10,2403,Magic Number / Long statement,20914,1625,344,3,91,2045
+https://github.com/docker-java/docker-java,1,1972,Long statement / Magic Number / Broken Hiearchy (323) / Unutilized Abstraction (314),34867,470,473,6,314,5433
+https://github.com/coinbase/coinbase-java,0,497,Long statement / Unutilized abstraction,9367,55,194,2,118,1159
+https://github.com/VKCOM/vk-java-sdk,3,2407,Unutilized abstraction / Long statement,118832,416,617,17,707,18755
+https://github.com/deepjavalibrary/djl,4,6765,Magic Number / Long statement,85836,4915,755,2,193,8412
+https://github.com/locationtech/spatial4j,1,1687,Magic Number / Long statement,11199,1364,75,1,24,1273
+https://github.com/pentaho/pentaho-reporting,93,31709,Magic Number / Long statement,526559,18110,5051,57,1838,53213
+https://github.com/geosolutions-it/geoserver-manager,2,475,Long statement / Magic Number / Broken hierarchy / Complex conditional,14373,122,133,1,12,1373
+https://github.com/rjohnsondev/java-libpst,2,1285,Magic Number / Long statement,7342,1143,74,1,0,675
+https://github.com/socketio/engine.io-client-java,5,372,Magic Number / Deficient encapsulation,4557,289,11,0,11,478
+https://github.com/pubnub/java,6,2592,Long statement / Magic Number,22230,938,1015,1,81,2977
+https://github.com/kevinsawicki/http-request,0,181,Magic Number / Long statement,5765,134,22,0,0,550
+https://github.com/querydsl/querydsl,13,8130,Magic Number / Long statement / Unutilized Abstraction,111921,3444,1049,20,1019,15215
+https://github.com/searchbox-io/Jest,0,1264,Long statement / Magic Number,19120,366,520,5,98,2554
+https://github.com/apache/incubator-shenyu,0,3701,Long statement / Magic Number,98565,813,1785,6,261,10578
+https://github.com/appium/java-client,0,1065,Unutiized Abstraction / Long statement,19418,161,240,5,261,2443
+https://github.com/protostuff/protostuff,21,4951,Magic Number / Long statement,61242,2803,603,4,167,6945
+https://github.com/LMAX-Exchange/disruptor,0,999,Magic Number / Long statement,15522,563,114,3,93,1913
+https://github.com/timols/java-gitlab-api,0,295,Long statement / Deficient encapsulation,7966,38,93,1,31,1461
+https://github.com/TNG/ArchUnit,1,7970,Long statement / Magic Number / Unutilized Abstraction,73679,1367,3550,15,1095,13927
+https://github.com/btraceio/btrace,11,2028,Magic Number / Long statement,41664,632,402,6,306,4520
+https://github.com/dom4j/dom4j,1,776,Magic Number / Unutilized abstraction,31144,283,62,3,111,3658
+https://github.com/census-instrumentation/opencensus-java,2,4694,Magic Number / Long statement,50118,2649,1335,5,118,6035
+https://github.com/web3j/web3j,3,3861,Magic Number / Long statement,35010,1578,1402,4,101,5397
+https://github.com/apache/datasketches-java,9,8548,Magic Number / Long statement,69341,7531,355,7,8,5602
+https://github.com/jpush/jpush-api-java-client,0,538,Long statement / Magic Number,10114,124,192,0,36,1100
+https://github.com/AsyncHttpClient/async-http-client,1,2752,Magic Number / Long statement,33309,1581,519,1,89,4340
+https://github.com/stripe/stripe-java,1,5744,Unutilized Abstraction / Long statement / Long parameter list,357912,376,1496,10,1809,36984
+https://github.com/jenkinsci/java-client-api,0,322,Magic Number / Broken Hierarchy,8419,119,28,2,7,1138
+https://github.com/OfficeDev/ews-java-api,8,1363,Long statement / Magic Number / Broken Hierarchy,67385,196,383,5,129,5395
+https://github.com/EdwardRaff/JSAT,33,14902,Magic Number / Long statement,108275,11711,1446,8,43,11275
+https://github.com/alibaba/jetcache,1,1138,Magic Number / Long statement,15682,671,148,4,71,1858
+https://github.com/pf4j/pf4j,0,271,Long statement / Magic Number,7468,59,86,1,29,893
+https://github.com/mockito/mockito,2,4007,Magic Number / Long statement,51018,1735,999,17,201,7438
+https://github.com/shekhargulati/strman-java,0,133,Magic Number / Long statement,5771,100,27,0,0,245
+https://github.com/jtablesaw/tablesaw,1,4889,Magic Number / Long statement,53104,3632,543,4,118,7103
+https://github.com/rabbitmq/rabbitmq-java-client,3,1955,Magic Number / Long statement,34991,1036,348,4,64,4126
+https://github.com/hub4j/github-api,1,1801,Magic Number / Long statement,38307,737,585,2,81,4319
+https://github.com/ben-manes/caffeine,2,4193,Magic Number / Long statement,64748,2702,578,4,273,7566
+https://github.com/GoogleContainerTools/jib,0,3894,Long statement / Magic Number,42598,768,2112,8,73,4477
+https://github.com/mabe02/lanterna,13,3255,Magic Number / Long statement,37663,1993,494,4,110,3579
+https://github.com/VictorAlbertos/RxCache,0,591,Magic Number / Long statement,8104,252,146,1,25,982
+https://github.com/caelum/vraptor,0,1085,Magic Number / Long statement,27680,371,248,10,118,4190
+https://github.com/smartdevicelink/sdl_java_suite,36,6371,Long statement / Magic Number,115043,1700,2451,9,315,9842
+https://github.com/commonmark/commonmark-java,0,791,Magic Number / Long statement,11040,444,127,3,41,1446
+https://github.com/google/caliper,0,732,Long statement / Magic Number,16742,195,209,4,122,2412
+https://github.com/cloudinary/cloudinary_java,2,1262,Magic Number / Long statement,15563,569,327,1,83,1705
+https://github.com/handsomezhou/PinyinSearchLibrary,3,183,Long statement / Complex method,5505,12,53,0,15,687
+https://github.com/braintree/braintree_java,1,2378,Long statement / Magic Number,31180,462,1559,3,25,4379
+https://github.com/igniterealtime/Smack,22,6820,Magic Number / Long statement,143712,2371,1313,15,523,14754
+https://github.com/junrar/junrar,8,1344,Magic Number / Complex method,8731,1153,32,0,15,777
+https://github.com/bazaarvoice/jolt,1,779,Magic Number / Long statement,10607,304,148,2,100,1101
+https://github.com/usb4java/usb4java,0,321,Magic Number / Long statement,7515,215,46,1,12,774
+https://github.com/ktuukkan/marine-api,0,2491,Magic Number / Feature envy,23014,1844,32,2,22,3129
+https://github.com/couchbase/couchbase-lite-java-core,14,1463,Magic Number / Long statement,33753,620,238,1,39,2924
+https://github.com/rubenlagus/TelegramApi,7,3368,Magic Number / Unutilized abstraction,59242,922,330,3,489,8661
+https://github.com/zapr-oss/druidry,0,947,Magic Number / Long statement,6178,408,301,2,12,830
+https://github.com/sghr/iGeo,46,11428,Magic Number / Long parameter list,133823,7379,543,4,258,21327
+https://github.com/mindwind/craft-atom,6,2651,Magic Number / Long parameter list,28617,1950,213,1,42,4154
+https://github.com/super-csv/super-csv,1,1018,Magic Number / Long statement,21658,571,230,4,16,2258
+https://github.com/plivo/plivo-java,0,767,Magic Number / Long statement,15342,294,149,2,124,3145
+https://github.com/apache/brooklyn-library,1,3096,Long statement / Magic Number,30436,883,1544,3,246,3984
+https://github.com/BYVoid/TA-Lib,33,9417,Magic Number / Long statement,22580,7609,827,0,9,962
+https://github.com/forge/roaster,1,627,Long statement / Magic Number,16535,170,233,4,67,2214
+https://github.com/jchambers/pushy,1,556,Long statement / Long identifier,9117,82,264,2,20,965
+https://github.com/dog-gateway/enj-library,0,955,Magic Number / Deficient encapsulation,6785,661,66,0,44,613
+https://github.com/dromara/hutool,5,7416,Magic Number / Long statement,175338,4947,539,13,309,15379
+https://github.com/zhaojun1998/zfile,0,223,Unutilized Abstraction / Long statement,4982,26,40,0,59,446
+https://github.com/line/armeria,18,14443,Magic Number / Long statement,224518,5677,5598,21,527,27063
+https://github.com/fynnfluegge/oreon-engine,5,2958,Magic Number / Long statement,15647,1753,740,0,84,1503
+https://github.com/Itiviti/simple-slack-api,1,332,Long Statement / Long Parameter List,6394,12,101,1,33,1189
+https://github.com/greenrobot/essentials,0,1091,Magic Number / Unutilized abstraction,5921,921,18,0,53,652
+https://github.com/lindenb/jvarkit,282,14702,Magic Number / Long statement,222602,6996,3433,11,337,16974
+https://github.com/RuedigerMoeller/fast-serialization,9,2105,Magic Number / Long Parameter list,25349,1480,72,2,84,3025
+https://github.com/DozerMapper/dozer,2,1804,Magic Number / Long statement,35915,540,455,7,119,5563
+https://github.com/cbeust/jcommander,0,702,Unutilized abstraction / Unnecessary abstraction,7527,138,45,2,161,794
+https://github.com/rampatra/jbot,0,89,Long statement / Insufficient modularization,5118,10,42,0,12,1032
+https://github.com/nguyenq/tess4j,0,295,Magic Number / Long Parameter list,7549,105,46,1,5,706
+https://github.com/spotify-web-api-java/spotify-web-api-java,0,1063,Long statement / Magic Number,34635,340,342,5,199,4008
+https://github.com/jMonkeyEngine/jmonkeyengine,68,18808,Magic Number / Long statement,240376,13363,1086,9,651,20773
+https://github.com/hprose/hprose-java,3,1265,Magic Number / Deficient encapsulation,17439,566,45,2,85,2444
+https://github.com/PebbleTemplates/pebble,0,1012,Long statement / Magic Number,21039,224,292,4,112,2541
+https://github.com/dustin/java-memcached-client,0,1324,Magic Number / Long statement,19056,837,105,3,75,2410
+https://github.com/Guardsquare/proguard,10,3393,Long statement / Magic Number,40588,511,1580,6,147,4055
+https://github.com/typetools/checker-framework,28,14460,Unutilized Abstraction / Magic Number,204884,3772,1985,9,5295,22812
+https://github.com/firebase/firebase-admin-java,3,4764,Magic Number / Long statement,69608,2513,1205,10,94,8738
+https://github.com/RoaringBitmap/RoaringBitmap,5,18721,Magic Number / Long statement,73656,17514,398,4,158,6270
+https://github.com/elastic/apm-agent-java,4,6915,Magic Number / Long statement,100147,2408,1941,12,899,13740
+https://github.com/twilio/twilio-java,8,13424,Long statement / Magic Number,267493,1709,5406,15,80,24428
